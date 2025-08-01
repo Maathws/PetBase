@@ -1,0 +1,15 @@
+{
+  "name": "petbase",
+  "version": "1.0.0",
+  "description": "Place to unify all services about pet market.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+    "author": {
+    "name": "Matheus Rodrigues Santana",
+    "email": "matheur.santana@gmail.com",
+    "url": "https://github.com/Maathws"
+  },
+  "license": "ISC"
+}
